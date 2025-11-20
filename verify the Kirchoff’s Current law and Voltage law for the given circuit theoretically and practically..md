@@ -1,5 +1,5 @@
-### Name:Praveen S
-### Reg no:212223210019
+### Name: Praveen S
+### Reg no: 212223210019
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
